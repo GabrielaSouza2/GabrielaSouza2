@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Gabriela e sou estudante de Engenharia da computação pelo Centro de Informática - UFPE e formada no curso de Análise de desenvolvimento de sistemas pela Faculdade Senac. Aqui compartilho um pouco dos meus projetos e experiências nessa jornada :)
+- 👋 Computer engineering student at CIn - UFPE
 
 <!---
 GabrielaSouza2/GabrielaSouza2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
